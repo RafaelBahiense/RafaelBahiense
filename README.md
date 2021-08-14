@@ -3,8 +3,6 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" />
  
- <br />
- <br />
 
 ### 90% of my projects are open source !!
 
