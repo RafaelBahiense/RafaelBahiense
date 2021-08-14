@@ -16,7 +16,6 @@
 - Fun fact: I speak 2 languages ( Portuguese, English )
 
 <br />
-<br />
 
 ### Contact me 🤝
 <br />
@@ -24,7 +23,6 @@
 [<img align="left" alt="rafael_bahiense | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="rafael_bahiense | Gmail" width="82px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
-<br />
 <br />
 
 ### Languages and Tools:
