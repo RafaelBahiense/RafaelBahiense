@@ -1,8 +1,14 @@
 ## Hello, I'm Rafael Bahiense 👋
+<br />
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" />
+ 
+ <br />
+ <br />
 
 ### 90% of my projects are open source !!
+
+<br />
 
 - You can find my projects here [repos]
 - I’m currently a student at [Driven Education].
@@ -11,14 +17,21 @@
 - Ask me about anything, I'd love to help however I can!
 - Fun fact: I speak 2 languages ( Portuguese, English )
 
+<br />
+<br />
+
 ### Contact me 🤝
+<br />
 
 [<img align="left" alt="rafael_bahiense | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="rafael_bahiense | Gmail" width="82px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 <br />
+<br />
 
 ### Languages and Tools:
+
+<br />
 
 [<img align="left" alt="JavaScript" width="50px" src="./assets/javascript.svg" />][es6]
 [<img align="left" alt="python" width="50px" src="./assets/python.svg" />][python]
@@ -26,12 +39,20 @@
 [<img align="left" alt="C++" width="50px" src="./assets/cpp.svg" />][cpp]
 [<img align="left" alt="HTML5" width="50px" src="./assets/html.svg" />][html]
 [<img align="left" alt="CSS3" width="50px" src="./assets/css.svg" />][css]
+<br />
+<br />
+<br />
+<br />
 [<img align="left" alt="Visual Studio Code" width="50px" src="./assets/visual-studio-code.svg" />][visual-studio-code]
 [<img align="left" alt="Bash" width="50px" src="./assets/bash.svg" />][bash]
 [<img align="left" alt="Git" width="50px" src="./assets/git.svg" />][git]
 [<img align="left" alt="GitHub" width="50px" src="./assets/github.svg" />][github]
 [<img align="left" alt="React" width="50px" src="./assets/react.svg" />][react]
 [<img align="left" alt="Node-js" width="50px" src="./assets/node-js.svg" />][node-js]
+<br />
+<br />
+<br />
+<br />
 [<img align="left" alt="SQL" width="50px" src="./assets/sql.svg" />][sql]
 [<img align="left" alt="PostgreSQL" width="50px" src="./assets/postgresql.svg" />][postgresql]
 [<img align="left" alt="TypeORM" width="50px" src="./assets/typeorm.png" />][typeorm]
@@ -54,7 +75,8 @@
 
 <br />
 <br />
----
+<br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
