@@ -9,8 +9,9 @@
 <br />
 
 - You can find my projects here [repos]
-- I’m currently a student at [Driven Education].
-- I’m currently learning Typescript
+- Fullstack Developer certification by [Driven Education].
+- I’m currently working at [Trinks].
+- I’m currently learning C# / .NET
 - I’m looking to collaborate on open source
 - Ask me about anything, I'd love to help however I can!
 - Fun fact: I speak 2 languages ( Portuguese, English )
@@ -92,3 +93,4 @@
 [linkedin]: https://www.linkedin.com/in/rafael-bahiense/
 [repos]: https://github.com/RafaelBahiense?tab=repositories/
 [driven education]: https://driveneducation.com.br/
+[Trinks]: https://www.trinks.com/
