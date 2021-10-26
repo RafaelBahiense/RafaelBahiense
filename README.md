@@ -91,6 +91,6 @@
 
 [email]: mailto:rafaelbahiense@id.uff.br
 [linkedin]: https://www.linkedin.com/in/rafael-bahiense/
-[repos]: https://github.com/RafaelBahiense?tab=repositories/
+[repos]: https://github.com/RafaelBahiense?tab=repositories
 [driven education]: https://driveneducation.com.br/
 [Trinks]: https://www.trinks.com/
