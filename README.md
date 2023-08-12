@@ -4,14 +4,12 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" />
  
 
-### 90% of my projects are open source !!
-
 <br />
 
 - You can find my projects here [repos]
 - Fullstack Developer certification by [Driven Education].
 - I’m currently working at [Trinks].
-- I’m currently learning C# / .NET
+- I’m currently learning DevOps
 - I’m looking to collaborate on open source
 - Ask me about anything, I'd love to help however I can!
 - Fun fact: I speak 2 languages ( Portuguese, English )
@@ -75,19 +73,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Rafael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RafaelBahiense&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Rafael's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBahiense" />
-
-</details>
 
 [email]: mailto:rafaelbahiense@id.uff.br
 [linkedin]: https://www.linkedin.com/in/rafael-bahiense/
