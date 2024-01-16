@@ -1,81 +1,26 @@
-## Hello, I'm Rafael Bahiense 👋
-<br />
+## Rafael Bahiense - Software Developer | Full Stack Engineer
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" />
- 
+Hello, I'm Rafael, a Full Stack Software Engineer based in Rio de Janeiro, Brazil. I specialize in building accessible web applications, with a strong aspiration to contribute significantly to open source projects. I'm currently exploring the vast potential of Rust for creating efficient command-line tools.
 
-<br />
+### About Me:
+- Working at Afya as a Fullstack Developer, focusing on software engineering principles and efficient problem-solving.
+- Passionate about computer fundamentals, constantly refining my understanding of software architecture, design patterns, and efficient coding practices.
+- Enthusiastic about developing command-line tools using Rust, aiming for performance and scalability.
+- Continuously expanding my technical knowledge and skills in software engineering, with a focus on practical and efficient problem-solving.
 
-- You can find my projects here [repos]
-- Fullstack Developer certification by [Driven Education].
-- I’m currently working at [Trinks].
-- I’m currently learning DevOps
-- I’m looking to collaborate on open source
-- Ask me about anything, I'd love to help however I can!
-- Fun fact: I speak 2 languages ( Portuguese, English )
+### Professional Journey:
+- Fullstack Developer at Afya - Developing and maintaining scalable web services.
+- Previous experience at Trinks.com and Faraday E-Racing, enhancing my skills in software development and embedded systems.
+- A background in Information Technology and Technical Internship with Marinha do Brasil, where I honed my technical and analytical skills.
 
-<br />
+### Education:
+- Bachelor of Engineering - BE, Telecommunications, Universidade Federal Fluminense (February 2019 - March 2023)
+- Computer Information Systems, Estácio (March 2023 - December 2025)
+- Computer Software Engineering, Driven Education (March 2021 - September 2021)
+- Technical Degree in Electronics, Escola Técnica Estadual Henrique Lage (February 2012 - December 2014)
 
-### Contact me 🤝
-<br />
+### Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/rafael-bahiense/)
+- Email: [rafaelbahiense@id.uff.br](mailto:rafaelbahiense@id.uff.br)
 
-[<img align="left" alt="rafael_bahiense | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="rafael_bahiense | Gmail" width="82px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-
-<br />
-
-### Languages and Tools:
-
-<br />
-
-[<img align="left" alt="JavaScript" width="50px" src="./assets/javascript.svg" />][es6]
-[<img align="left" alt="python" width="50px" src="./assets/python.svg" />][python]
-[<img align="left" alt="C" width="50px" src="./assets/c.svg" />][c]
-[<img align="left" alt="C++" width="50px" src="./assets/cpp.svg" />][cpp]
-[<img align="left" alt="HTML5" width="50px" src="./assets/html.svg" />][html]
-[<img align="left" alt="CSS3" width="50px" src="./assets/css.svg" />][css]
-<br />
-<br />
-<br />
-<br />
-[<img align="left" alt="Visual Studio Code" width="50px" src="./assets/visual-studio-code.svg" />][visual-studio-code]
-[<img align="left" alt="Bash" width="50px" src="./assets/bash.svg" />][bash]
-[<img align="left" alt="Git" width="50px" src="./assets/git.svg" />][git]
-[<img align="left" alt="GitHub" width="50px" src="./assets/github.svg" />][github]
-[<img align="left" alt="React" width="50px" src="./assets/react.svg" />][react]
-[<img align="left" alt="Node-js" width="50px" src="./assets/node-js.svg" />][node-js]
-<br />
-<br />
-<br />
-<br />
-[<img align="left" alt="SQL" width="50px" src="./assets/sql.svg" />][sql]
-[<img align="left" alt="PostgreSQL" width="50px" src="./assets/postgresql.svg" />][postgresql]
-[<img align="left" alt="TypeORM" width="50px" src="./assets/typeorm.png" />][typeorm]
-
-[es6]: https://262.ecma-international.org/6.0/
-[python]: https://www.python.org/
-[c]: https://www.iso.org/standard/74528.html
-[cpp]: https://isocpp.org/
-[html]: https://www.w3schools.com/html/
-[css]: https://www.w3schools.com/css/
-[visual-studio-code]: https://code.visualstudio.com/
-[bash]: https://www.gnu.org/software/bash/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[react]: https://reactjs.org/
-[node-js]: https://nodejs.org/
-[sql]: https://www.iso.org/standard/63555.html
-[postgresql]: https://www.postgresql.org/
-[typeorm]: https://typeorm.io/
-
-<br />
-<br />
-<br />
-<br />
-
-
-[email]: mailto:rafaelbahiense@id.uff.br
-[linkedin]: https://www.linkedin.com/in/rafael-bahiense/
-[repos]: https://github.com/RafaelBahiense?tab=repositories
-[driven education]: https://driveneducation.com.br/
-[Trinks]: https://www.trinks.com/
+Feel free to reach out for collaborations or discussions on software engineering and technology innovations.
